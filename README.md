@@ -1,6 +1,6 @@
 # Python Punchout
 
-## A command line fighthing game
+## A command line fighting game
 
 Python Punchout is a fighting game that runs on a command console. Download the files and type .\punchout.py to start the game. A command line window pops up and the game runs in it.
 
