@@ -1,8 +1,8 @@
-# Python Punchout
+# Python Punchout 🥊
 
 ## A command line fighting game
 
-Python Punchout is a fighting game that runs on a command console. Download the files and type .\punchout.py to start the game. A command line window pops up and the game runs in it.
+Python Punchout is a fighting game that runs on a command console. Download the files and type .\punchout.py to start the game. A command line window pops up and the game runs in it. Have fun punching!
 
 ## Game features and instuctions (also included in the game, accessible via main menu)
 
@@ -11,30 +11,30 @@ Python Punchout is a fighting game that runs on a command console. Download the 
   - Character has 100 points of hp at the start of the battle
   - Each move deals initially 10-40 points of damage damage
 
-Weakness and strength system:
+**Weakness and strength system:**
 
 - If a move is marked as a character's strength, the move deals initial damage plus 5 damage points
 - With weakness move, 5 damage points is reduced from initial damage output
 
-AI Opponent behaviour:
+**AI Opponent behaviour:**
 
 - AI chooses its character by random
 - It uses its character's strength move 60% of the time, regular move (neither strength or weakness move) 30% and weakness move 10 % of the time
 
-Main menu commands:
+**Main menu commands:**
 
 - H displays this help section
 - S Starts the game and propmpts user to choose a fighter
 - X Exits the game
 
-Battle commands:
+**Battle commands:**
 
 - P or p for Punch
 - T or t for Throw
 - K or k for Kick
 - Enter to confirm command
 
-Game Flow:
+**Game Flow:**
 
 - Each battle contains three rounds
 - Round ends when either or both the player and/or AI opponent's HP (hitpoints) reaches zero
