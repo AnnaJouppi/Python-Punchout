@@ -41,3 +41,12 @@ Python Punchout is a fighting game that runs on a command console. Download the 
 - If both the player's and AI Opponent's hp reaches zero at the same time, it is a tie and no winner for the round
 - Player with more than zero hp is the winner of the round
 - Player who wins more rounds when battle ends is declared the battle winner
+
+## Screenshots
+
+![py-punchout-menu](https://github.com/AnnaJouppi/Python-Punchout/assets/62011685/1c1a76e5-d7bd-4c4b-bf9a-a869e05de3ce)
+
+![fighters-first-round](https://github.com/AnnaJouppi/Python-Punchout/assets/62011685/e4370189-db55-48ce-ae16-674429a6730c)
+
+![punchout-fight](https://github.com/AnnaJouppi/Python-Punchout/assets/62011685/918c043a-5fbd-4afa-a45e-dd0564e13a7b)
+
